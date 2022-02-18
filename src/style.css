@@ -22,22 +22,21 @@ main {
 }
 #col {
   color: darkseagreen;
-  font-size: 5px;
 }
 h1 {
-  color: rgb(46, 38, 39);
+  color: deeppink;
   margin: 0em;
   display: block;
 }
 
 h2 {
-  color: rgb(46, 38, 39);
-  font-size: 1.2em;
+  color: pink;
+  font-size: 1em;
   margin: 0em;
 }
 
 h3 {
-  color: rgb(46, 38, 39);
+  color: black;
   font-size: 1em;
   margin: 0em;
 }
