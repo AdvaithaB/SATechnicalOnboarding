@@ -20,21 +20,24 @@ main {
   margin-bottom: 0.5em;
   margin-top: 0.3em;
 }
-
+#col {
+  color: darkseagreen;
+  font-size: 5px;
+}
 h1 {
-  color: paleturquoise;
+  color: rgb(46, 38, 39);
   margin: 0em;
   display: block;
 }
 
 h2 {
-  color: paleturquoise;
+  color: rgb(46, 38, 39);
   font-size: 1.2em;
   margin: 0em;
 }
 
 h3 {
-  color: paleturquoise;
+  color: rgb(46, 38, 39);
   font-size: 1em;
   margin: 0em;
 }
