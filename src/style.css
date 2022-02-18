@@ -46,3 +46,6 @@ ul {
   list-style-type: square;
   padding-left: 1.4em;
 }
+a {
+  color: hotpink;
+}
